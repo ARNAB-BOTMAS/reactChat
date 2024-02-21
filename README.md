@@ -9,7 +9,6 @@ This repository contains the code for a real-time chat website built using React
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The chat website provides a simple and intuitive interface for users to communicate with each other in real-time. It utilizes Firebase for real-time data synchronization and authentication.
